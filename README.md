@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TVUJ_USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vesely-jiri&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TVUJ_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vesely-jiri&layout=compact)
 
 <!--
 **vesely-jiri/vesely-jiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

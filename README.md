@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vesely-jiri&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vesely-jiri&layout=compact)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vesely-jiri?cardType=level&theme=github-dark&fontFamily=Fira%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!--
 **vesely-jiri/vesely-jiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
